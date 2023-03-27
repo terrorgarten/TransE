@@ -14,4 +14,4 @@ To configure your library downloads, please see the following links:
 - https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
 ---
 ### Run
-TBD, it doesnt work well yet..
+python3 ./transe.py
